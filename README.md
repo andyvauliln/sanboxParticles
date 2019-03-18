@@ -1,2 +1,0 @@
-# sanboxParticles
-Created with CodeSandbox
